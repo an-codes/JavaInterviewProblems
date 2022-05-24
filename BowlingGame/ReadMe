@@ -1,46 +1,16 @@
 BOWLING GAME RULES:
 
- - 10 pins at all times
- - 10 'frames' (rounds)/ game
- - 2 'rolls' (throws) per frame/ player
+ - 10 pins
+ - 10 'frames' (rounds)/ per game
+ - 2 'rolls' (throws) per frame/ per player
  - each pin = 1 point
- 
- - score is the sume of the pinsDown from each roll and each frame
- - in the FINAL THROW: If a player has a spare they need to throw one additional roll
- - if they have a strike they need to throw two additional rolls
- 
- 
-	SPARE:
- A spare is when you fail to knock down all ten pins at your first attempt in a single frame, but manage to clear the remaining pins at your second attempt.
- A spare is commonly indicated with a “/”.
-	
-	STRIKE:
- When all 10 pins are knocked down at one ball rolling.
- A strike is commonly indicated with an “X”.
- 
- 
- 
  
 	SCORING:
  Spare:
+A spare is when you fail to knock down all ten pins at your first attempt in a single frame, but manage to clear the remaining pins at your second attempt.
 10 points + the number of pins you knock down for your first attempt at the next frame.
 
  Strike:
+When all 10 pins are knocked down at one ball rolling.
 score 10 points + the number of pins you knock down for the entire next frame.
-
- Double:
-1st frame – 20 points + the number of pins you knock down in 3rd frame 
-2nd frame – same as scoring for strike
-
- Turkey:
-1st frame - 30 points 
-2nd frame – same as scoring for double
-3rd frame – same as scoring for strike
-
- Four-Bagger:
-1st frame - 30 points 
-2nd frame - 30 points 
-
- 3rd frame – same as scoring for double
- 4th frame – same as scoring for strike
  
