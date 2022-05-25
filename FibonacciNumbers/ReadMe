@@ -8,3 +8,6 @@ Fibonacci number - a number that is a sum of two previous numbers (n-1 + n-2).
 
 Fibonacci Series Number Example:
 0 (always the first number), 1(always the second number), 1 (0+1), 2 (1+1), 3 (1+2), 5 (2+3), 8 (3+5), 13 (5+8), 21 (8+13), 34 (13+21), 55 (21+34), 89 (34+55), 144 (55+89), 233 (89+144), 377 (144+233), 610 (233+377), 987 (377+610), 1597 (610+987), ... 
+
+
+Good read: https://www.geeksforgeeks.org/different-ways-to-print-fibonacci-series-in-java/
