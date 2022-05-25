@@ -1,4 +1,4 @@
-# JavaInterviewProblems
+# Java Interview Problems
 Repository with solved Java problems that often occur in Java interviews.
 
  - Bowling Game
