@@ -1,7 +1,11 @@
-Palindrome - a word/phrase/etc that reads the same from the front and from the back.
+# Palindrome - a word/phrase/etc that reads the same from the front and from the back.
 
 
-Interesting read: https://www.dictionary.com/e/palindromic-word/
-Apparently "The Finnish word for “soapstone vendor” is supposedly the longest palindrome in everyday use: saippuakivikauppias.".
+Interesting reads:
+
+ - https://www.geeksforgeeks.org/java-program-to-check-whether-a-string-is-a-palindrome/
+
+ - https://www.dictionary.com/e/palindromic-word/
+Apparently "The Finnish word for √ísoapstone vendor√ì is supposedly the longest palindrome in everyday use: saippuakivikauppias.".
 
 Let's check if that is in fact a palindrome!
