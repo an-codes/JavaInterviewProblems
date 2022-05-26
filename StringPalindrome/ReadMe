@@ -3,9 +3,12 @@
 
 Interesting reads:
 
- - https://www.geeksforgeeks.org/java-program-to-check-whether-a-string-is-a-palindrome/
+HOW TO REVERSE A NUMBER MATHEMATICALLY:
+https://medium.com/@ManBearPigCode/how-to-reverse-a-number-mathematically-97c556626ec6
 
- - https://www.dictionary.com/e/palindromic-word/
+https://www.geeksforgeeks.org/java-program-to-check-whether-a-string-is-a-palindrome/
+
+https://www.dictionary.com/e/palindromic-word/
 Apparently "The Finnish word for Òsoapstone vendorÓ is supposedly the longest palindrome in everyday use: saippuakivikauppias.".
 
 Let's check if that is in fact a palindrome!
