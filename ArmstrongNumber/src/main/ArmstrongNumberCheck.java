@@ -4,15 +4,22 @@ public class ArmstrongNumberCheck {
 
 	public boolean isItArmstrongNumber(int number) {
 	
+		int powerCheck=number;
 		boolean result = false;
-		int n=0; //number of digits
+		double n=0; //number of digits
 		int originalNo = number; // copy the number to compare it to later on
+		double power=0;
+		
+	    while (powerCheck > 0) {
+	    	powerCheck = powerCheck / 10;
+		       power++;
+		    }
 
 	 // calculate the sum of each digit separately, one by one
 	    while (number > 0) {
 
-	       int remainder = number % 10;
-	       n = (n) + (remainder * remainder * remainder);
+	       double remainder = number % 10;
+	       n = (n) + Math.pow(remainder, power);
 	       number = number / 10;
 	    }
 	    
@@ -44,7 +51,7 @@ public class ArmstrongNumberCheck {
 	// return the result
 	    if (n == originalNo) {
 	    	result = true;
-	    } else if (number != originalNo) {
+	    } else if (n != originalNo) {
 			result = false;
 
 	    }

@@ -28,4 +28,23 @@ class ArmstrongNumberTest {
 		boolean result = checkNo.isItArmstrongNumber(243);
 		assertEquals(false, result);
 	}
+	
+	@Test
+	void is54748Armstrong() {
+		boolean result = checkNo.isItArmstrongNumber(54748);
+		assertEquals(true, result);
+	}
+	
+	@Test
+	void is9474Armstrong() {
+		boolean result = checkNo.isItArmstrongNumber(9474);
+		assertEquals(true, result);
+	}
+	
+	@Test
+	void is22Armstrong() {
+		boolean result = checkNo.isItArmstrongNumber(22);
+		assertEquals(false, result);
+	}
+
 }
