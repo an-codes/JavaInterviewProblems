@@ -7,3 +7,4 @@ New solutions daily!
  2.  Fibonacci Numbers
  3. String Palindrome
  4. Integer Palindrome (In String Palindrome folder)
+ 5. Armstrong Numbers
