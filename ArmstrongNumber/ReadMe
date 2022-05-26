@@ -1,0 +1,9 @@
+# Armstrong Number
+
+Armstrong number - (e.g. three digit number) is when a sum of the cubes of its digits is equal to the number.
+For a four digit number, it will be the 4th power. For a five digit number, it will be the 5th power etc...
+
+e.g., 1*1*1 + 5*5*5 + 3*3*3 = 153
+
+Good reads:
+https://javatutoring.com/armstrong-number-in-java/
