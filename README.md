@@ -3,4 +3,5 @@ Repository with solved Java problems that often occur in Java interviews.
 
  1.  Bowling Game
  2.  Fibonacci Numbers
- 3. + 4. String Palindrome (+ Integer Palindrome)
+ 3. String Palindrome
+ 4. Integer Palindrome (In String Palindrome folder)
