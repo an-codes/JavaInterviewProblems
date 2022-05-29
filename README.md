@@ -13,4 +13,4 @@ New solutions daily!
  8. Remove Duplicates from Array List (Tests run on String, Integer and Character types)
  9. Print Pyramid Pattern
  10. Find Duplicate Characters In a String
- 11. Greates Common Divisor (Euclidean Algorithms)
+ 11. Greates Common Divisor (Euclidean Algorithm)
