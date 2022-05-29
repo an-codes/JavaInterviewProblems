@@ -11,3 +11,4 @@ New solutions daily!
  6. Factorial of a Number
  7. String Reverse
  8. Remove Duplicates from Array List (Tests run on String, Integer and Character types)
+ 9. Print Pyramid Pattern
