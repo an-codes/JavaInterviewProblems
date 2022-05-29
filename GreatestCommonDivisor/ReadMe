@@ -1,0 +1,13 @@
+(GCD) Greatest Common Divisor is the largest number that divides both numbers.
+
+Greatest common divisor can be calculated in a few ways, see here:
+https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/
+
+This project uses Euclidean Algorithm to accomplish that task.
+https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/
+
+
+BASIC EUCLIDEAN ALGORITHM:
+	- If the larger number is reduced by the smaller number, the GCD should not change, meaning that if we subtract the smaller number from the larger number until it is not possible anymore, the number that we are left with will be the Greatest Common Divisor,
+	- Another way is to use the division instead of subtraction and use it on the smaller number until the remainder is 0,
+	- Both methods are valid, but the modulus version usually accomplishes the same in a fewer steps.
