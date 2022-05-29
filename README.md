@@ -10,3 +10,4 @@ New solutions daily!
  5. Armstrong Numbers
  6. Factorial of a Number
  7. String Reverse
+ 8. Remove (String) Duplicates from Array List
