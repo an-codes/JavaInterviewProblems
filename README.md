@@ -14,3 +14,4 @@ New solutions daily!
  9. Print Pyramid Pattern
  10. Find Duplicate Characters In a String
  11. Greatest Common Divisor (Euclidean Algorithm)
+ 12. Reverse An Array
