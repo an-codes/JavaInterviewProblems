@@ -41,5 +41,17 @@ class ReverseAnArrayTest {
 		
 		assertEquals(true, expected);
 	}
+	
+	@Test
+	void reverseOneLengthArray() {
+		int[] intArray = new int[]{ 27 };
+		int[] testResult = test.reverseAnArray(intArray);
+		
+		int[] result = new int[]{ 27 };
+		
+		boolean expected = Arrays.equals(result, testResult);
+		
+		assertEquals(true, expected);
+	}
 
 }
