@@ -1,0 +1,11 @@
+What is a square root?
+Square root of X is a number that gives X when multiplied by itself.
+E.g., Square root of 25 is 5, because 5*5=25.
+
+Java already has a function that calculates that ( Math.sqrt(number) ), but this projects attempts to create its own square root method by using Newton's Method.
+
+
+
+Good read:
+https://www.geeksforgeeks.org/java-sqrt-method-examples/
+https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
