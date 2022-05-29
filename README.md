@@ -16,3 +16,4 @@ New solutions daily!
  11. Greatest Common Divisor (Euclidean Algorithm)
  12. Reverse an Array
  13. Reverse a String
+ 14. Square Root of a Number
