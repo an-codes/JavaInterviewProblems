@@ -17,3 +17,4 @@ New solutions daily!
  12. Reverse an Array
  13. Reverse a String
  14. Square Root of a Number
+ 15. Reverse a Number
