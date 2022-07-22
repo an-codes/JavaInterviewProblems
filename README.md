@@ -69,7 +69,7 @@ Repository with solved Java problems that often occur in Java interviews.
  
  
 # DYNAMIC PROGRAMMING:
- Memoization
+ - Memoization
 
 # GRAPH ALGORITHMS:
  - Breadth-first search
