@@ -1,7 +1,7 @@
 # Java Interview Problems
 Repository with solved Java problems that often occur in Java interviews.
 
-CHALLENGES:
+# CHALLENGES:
  1.  Bowling Game
  2.  Fibonacci Numbers
  3. String Palindrome
@@ -27,80 +27,80 @@ CHALLENGES:
  
  
  
-NEXT:
+## NEXT:
  
-CHALLENGES:
- Print all permutations of String
- Adding two matrices in Java
- Matrix multiplication
- Reverse a linked list
- Check if a linked list has a loop
- Find the 3rd element from the tail linked list
+# CHALLENGES:
+ - Print all permutations of String
+ - Adding two matrices in Java
+ - Matrix multiplication
+ - Reverse a linked list
+ - Check if a linked list has a loop
+ - Find the 3rd element from the tail linked list
  
-SEARCHING ALGORITHMS:
- Binary Search
- Linear Search
- Jump Search
- Interpolation Search
- Exponential SearchSublist Search (Search a linked list in another list)
- Fibonacci Search
- The Ubiquitous Binary Search
- Recursive program to linearly search an element in a given array
- Recursive function to do substring search
- Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
+# SEARCHING ALGORITHMS:
+ - Binary Search
+ - Linear Search
+ - Jump Search
+ - Interpolation Search
+ - Exponential SearchSublist Search (Search a linked list in another list)
+ - Fibonacci Search
+ - The Ubiquitous Binary Search
+ - Recursive program to linearly search an element in a given array
+ - Recursive function to do substring search
+ - Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
 
-TREE TRAVERSAL:
- Pre Order Tree Traversal (iterative + recursive)
- In Order Tree Traversal (iterative + recursive)
- Post Order Tree Traversal (iterative + recursive)
+# TREE TRAVERSAL:
+ - Pre Order Tree Traversal (iterative + recursive)
+ - In Order Tree Traversal (iterative + recursive)
+ - Post Order Tree Traversal (iterative + recursive)
 
-SORTING ALGORITHMS:
- Quicksort
- Insertion sort
- Bubble sort
- Merge sort
- Selection sort
- Heap sort
- Shell sort
- Tim sort
- Counting sort
- Radix sort
- Bucket sort
+# SORTING ALGORITHMS:
+ - Quicksort
+ - Insertion sort
+ - Bubble sort
+ - Merge sort
+ - Selection sort
+ - Heap sort
+ - Shell sort
+ - Tim sort
+ - Counting sort
+ - Radix sort
+ - Bucket sort
  
  
-DYNAMIC PROGRAMMING:
+# DYNAMIC PROGRAMMING:
  Memoization
 
-GRAPH ALGORITHMS:
- Breadth-first search
- Depth-first search
- A* Algo
- Shortest path:
-    - Dijkstra Algo
-    - Bellman–Ford Algo
- Cycle Detection Algorithm:
-    - Floyd cycle detection algorithm
-    - Brent’s algorithm
- Minimum spanning tree:
-    - Prim’s algorithm
-    - Kruskal’s algorithm
- Strongly connected components:
-    - Kosaraju’s algorithm
-    - Tarjan’s strongly connected components algorithm
- Topological sorting:
-    - Kahn’s algorithm
-    - The algorithm based on depth-first search
- Graph colouring:
-    - Algorithms using breadth-first search or depth-first search
-    - Greedy colouring
- Maximum flow:
-    - Ford-Fulkerson algorithm
-    - Edmonds–Karp algorithm
-    - Dinic’s algorithm
- Matching:
-    - Hopcroft-Karp algorithm
-    - Hungarian algorithm
-    - Blossom algorithm
+# GRAPH ALGORITHMS:
+ - Breadth-first search
+ - Depth-first search
+ - A* Algo
+ - Shortest path:
+     • Dijkstra Algo
+     • Bellman–Ford Algo
+ - Cycle Detection Algorithm:
+     • Floyd cycle detection algorithm
+     • Brent’s algorithm
+ - Minimum spanning tree:
+     • Prim’s algorithm
+     • Kruskal’s algorithm
+ - Strongly connected components:
+     • Kosaraju’s algorithm
+     • Tarjan’s strongly connected components algorithm
+ - Topological sorting:
+     • Kahn’s algorithm
+     • The algorithm based on depth-first search
+ - Graph colouring:
+     • Algorithms using breadth-first search or depth-first search
+     • Greedy colouring
+ - Maximum flow:
+     • Ford-Fulkerson algorithm
+     • Edmonds–Karp algorithm
+     • Dinic’s algorithm
+ - Matching:
+     • Hopcroft-Karp algorithm
+     • Hungarian algorithm
+     • Blossom algorithm
 
 
 
