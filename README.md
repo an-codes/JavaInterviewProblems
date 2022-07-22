@@ -24,13 +24,13 @@ New solutions daily!
  19. Check if the given String is an Anagram
  
  NEXT:
+ 
  20. Print all permutations of String
  21. Adding two matrices in Java
  22. Matrix multiplication
  23. Reverse a linked list
  24. Check if a linked list has a loop
  25. Find the 3rd element from the tail linked list
- 
  26. Binary Search
  27. Pre Order Tree Traversal (iterative + recursive)
  28. In Order Tree Traversal (iterative + recursive)
