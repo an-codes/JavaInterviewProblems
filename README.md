@@ -21,3 +21,4 @@ New solutions daily!
  16. Reverse Words in a Sentence
  17. Reverse an Array in Place
  18. Find First Non-Repeated Character
+ 19. Check if the given String is an Anagram
