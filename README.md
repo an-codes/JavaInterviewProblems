@@ -1,8 +1,7 @@
 # Java Interview Problems
 Repository with solved Java problems that often occur in Java interviews.
 
-New solutions daily!
-
+CHALLENGES:
  1.  Bowling Game
  2.  Fibonacci Numbers
  3. String Palindrome
@@ -23,38 +22,92 @@ New solutions daily!
  18. Find First Non-Repeated Character
  19. Check if the given String is an Anagram
  
- NEXT:
  
- 20. Print all permutations of String
- 21. Adding two matrices in Java
- 22. Matrix multiplication
- 23. Reverse a linked list
- 24. Check if a linked list has a loop
- 25. Find the 3rd element from the tail linked list
- 26. Binary Search
- 27. Pre Order Tree Traversal (iterative + recursive)
- 28. In Order Tree Traversal (iterative + recursive)
- 29. Post Order Tree Traversal (iterative + recursive)
- 30. Quicksort
- 31. Insertion sort
- 32. Bubble sort
- 33. Merge sort
- 34. Selection sort
- 35. Heap sort
- 36. Shell sort
- 37. Tim sort
- 38. Counting sort
- 39. Radix sort
- 40. Bucket sort
- 41.
- 42.
- 43.
- 44.
- 45.
- 46.
- 47.
- 48.
- 49.
- 50.
  
+ 
+ 
+ 
+NEXT:
+ 
+CHALLENGES:
+ Print all permutations of String
+ Adding two matrices in Java
+ Matrix multiplication
+ Reverse a linked list
+ Check if a linked list has a loop
+ Find the 3rd element from the tail linked list
+ 
+SEARCHING ALGORITHMS:
+ Binary Search
+ Linear Search
+ Jump Search
+ Interpolation Search
+ Exponential SearchSublist Search (Search a linked list in another list)
+ Fibonacci Search
+ The Ubiquitous Binary Search
+ Recursive program to linearly search an element in a given array
+ Recursive function to do substring search
+ Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
 
+TREE TRAVERSAL:
+ Pre Order Tree Traversal (iterative + recursive)
+ In Order Tree Traversal (iterative + recursive)
+ Post Order Tree Traversal (iterative + recursive)
+
+SORTING ALGORITHMS:
+ Quicksort
+ Insertion sort
+ Bubble sort
+ Merge sort
+ Selection sort
+ Heap sort
+ Shell sort
+ Tim sort
+ Counting sort
+ Radix sort
+ Bucket sort
+ 
+ 
+DYNAMIC PROGRAMMING:
+ Memoization
+
+GRAPH ALGORITHMS:
+ Breadth-first search
+ Depth-first search
+ A* Algo
+ Shortest path:
+    - Dijkstra Algo
+    - Bellman–Ford Algo
+ Cycle Detection Algorithm:
+    - Floyd cycle detection algorithm
+    - Brent’s algorithm
+ Minimum spanning tree:
+    - Prim’s algorithm
+    - Kruskal’s algorithm
+ Strongly connected components:
+    - Kosaraju’s algorithm
+    - Tarjan’s strongly connected components algorithm
+ Topological sorting:
+    - Kahn’s algorithm
+    - The algorithm based on depth-first search
+ Graph colouring:
+    - Algorithms using breadth-first search or depth-first search
+    - Greedy colouring
+ Maximum flow:
+    - Ford-Fulkerson algorithm
+    - Edmonds–Karp algorithm
+    - Dinic’s algorithm
+ Matching:
+    - Hopcroft-Karp algorithm
+    - Hungarian algorithm
+    - Blossom algorithm
+
+
+
+
+
+
+
+https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3
+https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz7UErtIWQe
+https://www.geeksforgeeks.org/searching-algorithms/
