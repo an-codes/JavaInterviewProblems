@@ -20,4 +20,4 @@ New solutions daily!
  15. Reverse a Number
  16. Reverse Words in a Sentence
  17. Reverse an Array in Place
- 18. Reverse an Array
+ 18. Find First Non-Repeated Character
