@@ -22,7 +22,39 @@ New solutions daily!
  17. Reverse an Array in Place
  18. Find First Non-Repeated Character
  19. Check if the given String is an Anagram
- 20. Binary Search (incoming)
- 21. Pre Order Tree Traversal (iterative + recursive)(incoming)
- 22. In Order Tree Traversal (iterative + recursive)(incoming)
- 23. Post Order Tree Traversal (iterative + recursive)(incoming)
+ 
+ NEXT:
+ 20. Print all permutations of String
+ 21. Adding two matrices in Java
+ 22. Matrix multiplication
+ 23. Reverse a linked list
+ 24. Check if a linked list has a loop
+ 25. Find the 3rd element from the tail linked list
+ 
+ 26. Binary Search
+ 27. Pre Order Tree Traversal (iterative + recursive)
+ 28. In Order Tree Traversal (iterative + recursive)
+ 29. Post Order Tree Traversal (iterative + recursive)
+ 30. Quicksort
+ 31. Insertion sort
+ 32. Bubble sort
+ 33. Merge sort
+ 34. Selection sort
+ 35. Heap sort
+ 36. Shell sort
+ 37. Tim sort
+ 38. Counting sort
+ 39. Radix sort
+ 40. Bucket sort
+ 41.
+ 42.
+ 43.
+ 44.
+ 45.
+ 46.
+ 47.
+ 48.
+ 49.
+ 50.
+ 
+
