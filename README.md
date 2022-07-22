@@ -22,3 +22,7 @@ New solutions daily!
  17. Reverse an Array in Place
  18. Find First Non-Repeated Character
  19. Check if the given String is an Anagram
+ 20. Binary Search (incoming)
+ 21. Pre Order Tree Traversal (incoming)
+ 22. In Order Tree Traversal (incoming)
+ 23. Post Order Tree Traversal (incoming)
