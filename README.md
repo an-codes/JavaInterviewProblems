@@ -1,7 +1,7 @@
 # Java Interview Problems
 Repository with solved Java problems that often occur in Java interviews.
 
-# CHALLENGES:
+## CHALLENGES:
  1.  Bowling Game
  2.  Fibonacci Numbers
  3. String Palindrome
@@ -27,9 +27,9 @@ Repository with solved Java problems that often occur in Java interviews.
  
  
  
-## NEXT:
+# NEXT:
  
-# CHALLENGES:
+## CHALLENGES:
  - Print all permutations of String
  - Adding two matrices in Java
  - Matrix multiplication
@@ -37,7 +37,7 @@ Repository with solved Java problems that often occur in Java interviews.
  - Check if a linked list has a loop
  - Find the 3rd element from the tail linked list
  
-# SEARCHING ALGORITHMS:
+## SEARCHING ALGORITHMS:
  - Binary Search
  - Linear Search
  - Jump Search
@@ -49,12 +49,12 @@ Repository with solved Java problems that often occur in Java interviews.
  - Recursive function to do substring search
  - Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
 
-# TREE TRAVERSAL:
+## TREE TRAVERSAL:
  - Pre Order Tree Traversal (iterative + recursive)
  - In Order Tree Traversal (iterative + recursive)
  - Post Order Tree Traversal (iterative + recursive)
 
-# SORTING ALGORITHMS:
+## SORTING ALGORITHMS:
  - Quicksort
  - Insertion sort
  - Bubble sort
@@ -68,10 +68,10 @@ Repository with solved Java problems that often occur in Java interviews.
  - Bucket sort
  
  
-# DYNAMIC PROGRAMMING:
+## DYNAMIC PROGRAMMING:
  - Memoization
 
-# GRAPH ALGORITHMS:
+## GRAPH ALGORITHMS:
  - Breadth-first search
  - Depth-first search
  - A* Algo
