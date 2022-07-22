@@ -18,3 +18,4 @@ New solutions daily!
  13. Reverse a String
  14. Square Root of a Number
  15. Reverse a Number
+ 16. Reverse Words in a Sentence
