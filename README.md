@@ -48,6 +48,10 @@ Repository with solved Java problems that often occur in Java interviews.
  - Recursive program to linearly search an element in a given array
  - Recursive function to do substring search
  - Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
+ - Breadth-first search
+ - Depth-first search
+ - A* Algo
+ - Knuth–Morris–Pratt Pattern Searching Algo
 
 ### TREE TRAVERSAL:
  - Pre Order Tree Traversal (iterative + recursive)
@@ -67,17 +71,19 @@ Repository with solved Java problems that often occur in Java interviews.
  - Radix sort
  - Bucket sort
  
+### SELECTION ALGORITHMS:
+ - Quickselect Algo
+ - 
  
 ### DYNAMIC PROGRAMMING:
  - Memoization
+ - Kadane's Algo
 
 ### GRAPH ALGORITHMS:
- - Breadth-first search
- - Depth-first search
- - A* Algo
  - Shortest path:
      • Dijkstra Algo
      • Bellman–Ford Algo
+     * Kruskal's Algo
  - Cycle Detection Algorithm:
      • Floyd cycle detection algorithm
      • Brent’s algorithm
@@ -92,6 +98,8 @@ Repository with solved Java problems that often occur in Java interviews.
      • The algorithm based on depth-first search
  - Graph colouring:
      • Algorithms using breadth-first search or depth-first search
+     * Flood Fill Algo
+     * Lee Algo
      • Greedy colouring
  - Maximum flow:
      • Ford-Fulkerson algorithm
@@ -103,6 +111,12 @@ Repository with solved Java problems that often occur in Java interviews.
      • Blossom algorithm
 
 
+
+In addition:
+- Huffman Codin Compression Algorithm
+- Euclid's Algorithm
+- Union Find Algorithm
+- Boyer–Moore Majority Vote Algo
 
 
 
