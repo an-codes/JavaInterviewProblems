@@ -35,7 +35,8 @@ Repository with solved Java problems that often occur in Java interviews.
 
 ### Searching Algorithms:
   23. Binary Search
-
+      - iterative method
+      - recursive method
  
 # NEXT:
  
