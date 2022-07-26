@@ -28,8 +28,6 @@ Repository with solved Java problems that often occur in Java interviews.
       - recursive method
  21. Post Order Tree Traversal
       - iterative method
-        • using one stack
-        • using two stacks
       - recursive method
  22. In Order Tree Traversal
       - iterative method
