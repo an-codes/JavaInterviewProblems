@@ -33,10 +33,9 @@ Repository with solved Java problems that often occur in Java interviews.
       - iterative method
       - recursive method
 
- 
- 
- 
- 
+### Searching Algorithms
+  23. Binary Search
+
  
 # NEXT:
  
@@ -49,7 +48,6 @@ Repository with solved Java problems that often occur in Java interviews.
  - Find the 3rd element from the tail linked list
  
 ### SEARCHING ALGORITHMS:
- - Binary Search
  - Linear Search
  - Jump Search
  - Interpolation Search
