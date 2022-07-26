@@ -1,7 +1,7 @@
 # Java Interview Problems
 Repository with solved Java problems that often occur in Java interviews.
 
-### CHALLENGES:
+### Challenges:
  1.  Bowling Game
  2.  Fibonacci Numbers
  3. String Palindrome
@@ -22,7 +22,7 @@ Repository with solved Java problems that often occur in Java interviews.
  18. Find First Non-Repeated Character
  19. Check if the given String is an Anagram
 
-### Tree Traversals
+### Tree Traversals:
  20. Pre Order Tree Traversal
       - iterative method
       - recursive method
@@ -33,10 +33,10 @@ Repository with solved Java problems that often occur in Java interviews.
       - iterative method
       - recursive method
 
- 
- 
- 
- 
+### Searching Algorithms:
+  23. Binary Search
+      - iterative method
+      - recursive method
  
 # NEXT:
  
@@ -49,7 +49,6 @@ Repository with solved Java problems that often occur in Java interviews.
  - Find the 3rd element from the tail linked list
  
 ### SEARCHING ALGORITHMS:
- - Binary Search
  - Linear Search
  - Jump Search
  - Interpolation Search
