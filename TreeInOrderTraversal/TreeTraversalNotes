@@ -1,0 +1,81 @@
+# RECURSION
+
+All three algorithms are a depth-first type of an algorithm.
+
+Algorithm Preorder(tree)
+   1. Visit the root.
+   2. Traverse the left subtree, i.e., call Preorder(left-subtree)
+   3. Traverse the right subtree, i.e., call Preorder(right-subtree)
+   
+   
+Algorithm Postorder(tree)
+   1. Traverse the left subtree, i.e., call Postorder(left-subtree)
+   2. Traverse the right subtree, i.e., call Postorder(right-subtree)
+   3. Visit the root.
+   
+   
+Algorithm Inorder(tree)
+   1. Traverse the left subtree, i.e., call Inorder(left-subtree)
+   2. Visit the root.
+   3. Traverse the right subtree, i.e., call Inorder(right-subtree)
+   
+   
+   For a tree that looks like this:
+   
+   
+   
+		   	 1 (root)
+			/ \
+   		   2   3
+  		  / \
+		 4   5
+ 
+
+
+Preorder traversal of binary tree is:
+1 2 4 5 3 
+Inorder traversal of binary tree is:
+4 2 5 1 3 
+Postorder traversal of binary tree is:
+4 5 2 3 1
+   
+   
+   
+
+
+# ITERATION
+
+Algorithm Preorder(tree)
+1. Create an empty stack nodeStack and push root node to stack. 
+2. Do the following while nodeStack is not empty: 
+	1. Pop an item from the stack and print it. 
+	2. Push right child of a popped item to stack 
+	3. Push left child of a popped item to stack
+	
+	
+The right child is pushed before the left child to make sure that the left subtree is processed first.
+
+   
+Algorithm Postorder(tree)
+1. Push root to first stack.
+2. Loop while first stack is not empty
+   1. Pop a node from first stack and push it to second stack
+   2. Push left and right children of the popped node to first stack
+3. Print contents of second stack
+   
+   
+Algorithm Inorder(tree)
+1. Create an empty stack S.
+2. Initialize current node as root
+3. Push the current node to S and set current = current->left until current is NULL
+4. If current is NULL and stack is not empty then 
+     1. Pop the top item from stack.
+     2. Print the popped item, set current = popped_item->right 
+     3. Go to step 3.
+5. If current is NULL and stack is empty then we are done.
+
+
+Sources:
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder
+https://www.geeksforgeeks.org/iterative-preorder-traversal/
+https://www.youtube.com/watch?v=R4V4n-waxn4
