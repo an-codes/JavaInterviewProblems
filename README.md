@@ -21,8 +21,19 @@ Repository with solved Java problems that often occur in Java interviews.
  17. Reverse an Array in Place
  18. Find First Non-Repeated Character
  19. Check if the given String is an Anagram
- 20. Pre Order Tree Traversal (iterative + recursive)
- 21. Post Order Tree Traversal (iterative + recursive)
+
+### Tree Traversals
+ 20. Pre Order Tree Traversal
+      - iterative method
+      - recursive method
+ 21. Post Order Tree Traversal
+      - iterative method
+        • using one stack
+        • using two stacks
+      - recursive method
+ 22. In Order Tree Traversal
+      - iterative method
+      - recursive method
 
  
  
@@ -54,10 +65,6 @@ Repository with solved Java problems that often occur in Java interviews.
  - Depth-first search
  - A* Algo
  - Knuth–Morris–Pratt Pattern Searching Algo
-
-### TREE TRAVERSAL:
- - In Order Tree Traversal (iterative + recursive)
- - Post Order Tree Traversal (iterative + recursive)
 
 ### SORTING ALGORITHMS:
  - Quicksort
