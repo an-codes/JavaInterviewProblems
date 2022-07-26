@@ -83,7 +83,7 @@ Repository with solved Java problems that often occur in Java interviews.
  - Shortest path:
      • Dijkstra Algo
      • Bellman–Ford Algo
-     * Kruskal's Algo
+     • Kruskal's Algo
  - Cycle Detection Algorithm:
      • Floyd cycle detection algorithm
      • Brent’s algorithm
@@ -98,8 +98,8 @@ Repository with solved Java problems that often occur in Java interviews.
      • The algorithm based on depth-first search
  - Graph colouring:
      • Algorithms using breadth-first search or depth-first search
-     * Flood Fill Algo
-     * Lee Algo
+     • Flood Fill Algo
+     • Lee Algo
      • Greedy colouring
  - Maximum flow:
      • Ford-Fulkerson algorithm
