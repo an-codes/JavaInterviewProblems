@@ -1,7 +1,7 @@
 # Java Interview Problems
 Repository with solved Java problems that often occur in Java interviews.
 
-### CHALLENGES:
+### Challenges
  1.  Bowling Game
  2.  Fibonacci Numbers
  3. String Palindrome
