@@ -22,6 +22,8 @@ Repository with solved Java problems that often occur in Java interviews.
  18. Find First Non-Repeated Character
  19. Check if the given String is an Anagram
  20. Pre Order Tree Traversal (iterative + recursive)
+ 21. Post Order Tree Traversal (iterative + recursive)
+
  
  
  
