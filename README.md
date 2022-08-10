@@ -37,6 +37,9 @@ Repository with solved Java problems that often occur in Java interviews.
   23. Binary Search
       - iterative method
       - recursive method
+      
+### Sorting Algorithms:
+  24. Insertion Sort
  
 # NEXT:
  
