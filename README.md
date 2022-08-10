@@ -67,7 +67,7 @@ Repository with solved Java problems that often occur in Java interviews.
  - Knuth–Morris–Pratt Pattern Searching Algo
 
 ### SORTING ALGORITHMS:
- - Quicksort
+ - Quick sort
  - Bubble sort
  - Merge sort
  - Selection sort
@@ -77,6 +77,7 @@ Repository with solved Java problems that often occur in Java interviews.
  - Counting sort
  - Radix sort
  - Bucket sort
+ - Comb sort
  
 ### SELECTION ALGORITHMS:
  - Quickselect Algo
@@ -131,3 +132,4 @@ In addition:
 https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3
 https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz7UErtIWQe
 https://www.geeksforgeeks.org/searching-algorithms/
+https://www.crio.do/blog/top-10-sorting-algorithms/#:~:text=Bubble%20sort%20is%20widely%20recognized,until%20the%20list%20is%20sorted.
