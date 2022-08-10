@@ -1,0 +1,17 @@
+Insertion Sort
+
+Insertion Sort is not the fastest of the sorting algorithms because it has to use nested loops which take a lot of time.
+It is still useful, but on smaller data sets.
+
+
+			|   BEST   |   WORST
+Iteration   |   O(n)   |   O(n)
+Shift Items |   O(1)   |   O(n)
+Total       |   O(n)   |   O(n^2)
+
+
+
+Sources:
+https://www.geeksforgeeks.org/insertion-sort/
+https://www.youtube.com/watch?v=lCDZ0IprFw4
+https://www.youtube.com/watch?v=nKzEJWbkPbQ
