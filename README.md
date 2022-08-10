@@ -40,6 +40,7 @@ Repository with solved Java problems that often occur in Java interviews.
       
 ### Sorting Algorithms:
   24. Insertion Sort
+  25. Bubble Sort
  
 # NEXT:
  
@@ -68,7 +69,6 @@ Repository with solved Java problems that often occur in Java interviews.
 
 ### SORTING ALGORITHMS:
  - Quicksort
- - Bubble sort
  - Merge sort
  - Selection sort
  - Heap sort
