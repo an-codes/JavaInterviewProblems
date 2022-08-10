@@ -68,7 +68,6 @@ Repository with solved Java problems that often occur in Java interviews.
 
 ### SORTING ALGORITHMS:
  - Quicksort
- - Insertion sort
  - Bubble sort
  - Merge sort
  - Selection sort
