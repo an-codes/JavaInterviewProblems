@@ -1,0 +1,10 @@
+Merge Sort:
+It is another "divide and conquer" (recursive) algorithm. It divides the input into smaller parts (the input is divided into halves until it can no longer be divided) and focuses on solving each smaller part.
+The Merge sort algorithm conquers a small part that consists of only one element. Anything larger than one element, e.g. a two-element chunk, should be divided.
+
+Once we achieve that, we then proceed to merge the solved separate pieces in a sorted manner into one solution.
+
+Sources:
+https://www.geeksforgeeks.org/merge-sort/
+https://www.youtube.com/watch?v=6pV2IF0fgKY
+https://www.youtube.com/watch?v=mB5HXBb_HY8
