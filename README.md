@@ -43,6 +43,7 @@ Repository with solved Java problems that often occur in Java interviews.
   25. Bubble Sort
   26. Selection Sort
   27. Merge Sort
+  28. Quick Sort
  
 # NEXT:
  
