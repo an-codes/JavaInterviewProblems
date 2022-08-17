@@ -1,0 +1,19 @@
+Quick Sort:
+
+Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an element as a pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways. 
+
+1. Always pick the first element as a pivot.
+2. Always pick the last element as a pivot (implemented below)
+3. Pick a random element as a pivot.
+4. Pick median as the pivot.
+
+It is implemented as an "in place" sorting algorithm as it does not require any additional place to store the sub-arrays. e.g. Merge-sort is a 'not-in-place' algorithm, so it has worse space complexity
+Partition - a process in which we select a pivot and rearrange a list.
+
+Sources:
+https://www.youtube.com/watch?v=7h1s2SojIRw
+https://www.geeksforgeeks.org/quick-sort/
+https://www.youtube.com/watch?v=SLauY6PpjW4
+
+BEST explanation:
+https://www.youtube.com/watch?v=COk73cpQbFQ
