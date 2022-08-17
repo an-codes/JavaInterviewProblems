@@ -44,6 +44,7 @@ Repository with solved Java problems that often occur in Java interviews.
   26. Selection Sort
   27. Merge Sort
   28. Quick Sort
+  29. Comb Sort
  
 # NEXT:
  
