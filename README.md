@@ -71,8 +71,6 @@ Repository with solved Java problems that often occur in Java interviews.
  - Knuth–Morris–Pratt Pattern Searching Algo
 
 ### SORTING ALGORITHMS:
- - Quick sort
- - Merge sort
  - Heap sort
  - Shell sort
  - Tim sort
