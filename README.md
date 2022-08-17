@@ -78,7 +78,6 @@ Repository with solved Java problems that often occur in Java interviews.
  - Counting sort
  - Radix sort
  - Bucket sort
- - Comb sort
  
 ### SELECTION ALGORITHMS:
  - Quickselect Algo
