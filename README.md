@@ -42,6 +42,8 @@ Repository with solved Java problems that often occur in Java interviews.
   24. Insertion Sort
   25. Bubble Sort
   26. Selection Sort
+  27. Merge Sort
+  28. Quick Sort
  
 # NEXT:
  
@@ -69,8 +71,6 @@ Repository with solved Java problems that often occur in Java interviews.
  - Knuth–Morris–Pratt Pattern Searching Algo
 
 ### SORTING ALGORITHMS:
- - Quick sort
- - Merge sort
  - Heap sort
  - Shell sort
  - Tim sort
