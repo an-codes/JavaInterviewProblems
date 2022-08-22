@@ -45,6 +45,7 @@ Repository with solved Java problems that often occur in Java interviews.
   27. Merge Sort
   28. Quick Sort
   29. Comb Sort
+  30. Bucket Sort
  
 # NEXT:
  
@@ -77,7 +78,6 @@ Repository with solved Java problems that often occur in Java interviews.
  - Tim sort
  - Counting sort
  - Radix sort
- - Bucket sort
  
 ### SELECTION ALGORITHMS:
  - Quickselect Algo
