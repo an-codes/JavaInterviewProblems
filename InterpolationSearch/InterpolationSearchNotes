@@ -1,0 +1,18 @@
+Interpolation meaning:
+"the insertion of something of a different nature into something else"
+
+
+Similar to binary search, interpolation search can only work on a sorted array.
+On top of that and not alike the binary search, the array has to be uniformly distributed.
+That means that a difference between i and i+1, i+1 and 1+2 and so on must be either the same or very similar.
+
+
+Baeldung says:
+"It places a probe in a calculated position on each iteration. If the probe is right on the item we are looking for, the position will be returned; otherwise, the search space will be limited to either the right or the left side of the probe."
+
+
+
+Sources:
+https://www.geeksforgeeks.org/interpolation-search/
+https://www.baeldung.com/java-interpolation-search
+https://www.youtube.com/watch?v=hF9iJEPegNc
