@@ -1,9 +1,7 @@
 package main;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.List;
 
 
 /*
@@ -13,7 +11,7 @@ import java.util.List;
  
  */
 
-public class BinarySearchApp {
+public class BinarySearch {
 	
 	public int binarySearchIterative(ArrayList<Integer> list, int number) {
 		// Sort the ArrayList

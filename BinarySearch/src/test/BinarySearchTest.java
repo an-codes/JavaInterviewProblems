@@ -1,25 +1,22 @@
 package test;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.jupiter.api.Assertions.*;
-
 import java.util.ArrayList;
 
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import main.BinarySearchApp;
+import main.BinarySearch;
 
 class BinarySearchTest {
-	BinarySearchApp bSearch;
+	BinarySearch bSearch;
 	ArrayList<Integer> listOdd;
 	ArrayList<Integer> listEven;
 	
 	
 	@BeforeEach
 	void setUp() throws Exception {
-		bSearch = new BinarySearchApp();
+		bSearch = new BinarySearch();
 
 		listOdd = new ArrayList<Integer>();
 		listOdd.add(15);
