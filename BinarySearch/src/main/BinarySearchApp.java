@@ -15,11 +15,6 @@ import java.util.List;
 
 public class BinarySearchApp {
 	
-	private int low;
-	private int high;
-
-
-
 	public int binarySearchIterative(ArrayList<Integer> list, int number) {
 		// Sort the ArrayList
 		Collections.sort(list);
@@ -69,8 +64,6 @@ public class BinarySearchApp {
 		Collections.sort(list);
 		
 		int result=-1;
-		this.low = low;
-		this.high = high;
 		int middle = ((low + high) / 2);
 		
 		System.out.print(list.get(middle));
