@@ -40,15 +40,16 @@ Repository with solved Java problems that often occur in Java interviews.
       - iterative method
       - recursive method
   26. Interpolation Search
+  27. Exponential Search
       
 ### Sorting Algorithms:
-  27. Insertion Sort
-  28. Bubble Sort
-  29. Selection Sort
-  30. Merge Sort
-  31. Quick Sort
-  32. Comb Sort
-  33. Bucket Sort
+  28. Insertion Sort
+  29. Bubble Sort
+  30. Selection Sort
+  31. Merge Sort
+  32. Quick Sort
+  33. Comb Sort
+  34. Bucket Sort
  
 # NEXT:
  
@@ -61,7 +62,7 @@ Repository with solved Java problems that often occur in Java interviews.
  - Find the 3rd element from the tail linked list
  
 ### SEARCHING ALGORITHMS:
- - Exponential SearchSublist Search (Search a linked list in another list)
+ - Sublist Search (Search a linked list in another list)
  - Fibonacci Search
  - The Ubiquitous Binary Search
  - Recursive program to linearly search an element in a given array
